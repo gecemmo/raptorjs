@@ -73,4 +73,5 @@ Raptor.prototype = {
     }
 }
 
+// Export Raptor as library to Node.js
 module.exports = Raptor;
